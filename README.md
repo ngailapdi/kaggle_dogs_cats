@@ -3,6 +3,6 @@ Implementation for Kaggle Dogs vs Cats challenge in 2013 by finetuning the fully
 
 Accuracy achieved after 5 epochs:
 
-train acc:  0.9521
-val acc:  0.9820833333333333
-test acc:  0.9757692307692307
+train acc:  0.952
+val acc:  0.982
+test acc:  0.976
